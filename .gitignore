@@ -1,0 +1,6 @@
+# Pastas do IntelliJ IDEA
+.idea/
+*.iml
+
+# Pasta de build do Maven
+target/
