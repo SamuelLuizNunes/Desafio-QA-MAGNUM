@@ -1,6 +1,6 @@
 # Desafio QA Magnum
 
-Este repositório contém o código desenvolvido para o desafio de QA da Magnum Bank. O objetivo é demonstrar habilidades de automação de testes, incluindo testes de API, testes funcionais e o uso de frameworks como Selenium, RestAssured, entre outros.
+Este repositório contém o código desenvolvido para o desafio de QA da Magnum Bank. O objetivo é demonstrar habilidades de automação de testes, incluindo testes de API com Postman, testes funcionais e o uso do framework Selenium.
 
 ## Estrutura do Repositório
 
